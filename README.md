@@ -16,5 +16,7 @@ In this Game firstly some words are jumbled and you have  to solve the jumble to
 you teach ,machine Learn
 
 
-## * CHATBOT-:chatbot with some additional feature like translation,meaning,speech recognition,Natural language user Interface.
+## * CHATBOT
+
+Chatbot with some additional feature like translation,meaning,speech recognition,Natural language user Interface.
 
